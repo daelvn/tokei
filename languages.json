@@ -1046,6 +1046,18 @@
                 "mint"
             ]
         },
+        "MoonScript":{
+            "line_comment":[
+                "--"
+            ],
+            "quotes":[
+                ["\\\"", "\\\""],
+                ["'", "'"]
+            ],
+            "extensions":[
+                "moon"
+            ]
+        },
         "Mustache":{
             "multi_line":[
                 ["{{!", "}}"]
